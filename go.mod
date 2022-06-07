@@ -1,4 +1,4 @@
-module github.com/asavie/xdp
+module github.com/trxa/xdp
 
 go 1.18
 

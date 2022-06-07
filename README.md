@@ -1,5 +1,7 @@
 # xdp
 
+All credits go to the author!
+
 [![Go Reference](https://pkg.go.dev/badge/github.com/asavie/xdp.svg)](https://pkg.go.dev/github.com/asavie/xdp)
 
 Package github.com/asavie/xdp allows one to use [XDP sockets](https://lwn.net/Articles/750845/) from the Go programming language.
